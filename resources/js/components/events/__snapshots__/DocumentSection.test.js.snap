@@ -1,0 +1,1751 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Document list component Snapshots 1`] = `
+<div
+  class="white"
+>
+  <div
+    class="right py-3 px-4"
+  >
+    <button
+      class="v-btn theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        >
+          add_circle
+        </i>
+         
+        <span>
+          
+        Add New Document
+      
+        </span>
+      </div>
+    </button>
+  </div>
+   
+  <div>
+    <div>
+      <div
+        class="v-table__overflow"
+      >
+        <table
+          class="v-datatable v-table theme--light"
+        >
+          <thead>
+            <tr>
+              <th
+                aria-label="STATUS: Not sorted. Activate to sort ascending."
+                aria-sort="none"
+                class="column sortable text-xs-left"
+                role="columnheader"
+                scope="col"
+                tabindex="0"
+              >
+                
+    STATUS
+  
+                <i
+                  aria-hidden="true"
+                  class="v-icon material-icons theme--light"
+                  style="font-size: 16px;"
+                >
+                  arrow_upward
+                </i>
+              </th>
+              <th
+                aria-label="NAME: Not sorted."
+                aria-sort="none"
+                class="column text-xs-left"
+                role="columnheader"
+                scope="col"
+              >
+                
+    NAME
+  
+              </th>
+              <th
+                aria-label="LAST UPDATED: Not sorted. Activate to sort ascending."
+                aria-sort="none"
+                class="column sortable text-xs-left"
+                role="columnheader"
+                scope="col"
+                tabindex="0"
+              >
+                
+    LAST UPDATED
+  
+                <i
+                  aria-hidden="true"
+                  class="v-icon material-icons theme--light"
+                  style="font-size: 16px;"
+                >
+                  arrow_upward
+                </i>
+              </th>
+              <th
+                aria-label="MANAGE: Not sorted."
+                aria-sort="none"
+                class="column text-xs-left"
+                role="columnheader"
+                scope="col"
+              >
+                
+    MANAGE
+  
+              </th>
+            </tr>
+            <tr
+              class="v-datatable__progress"
+            >
+              <th
+                class="column"
+                colspan="4"
+              />
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark success success-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Approved
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        aliasa
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Level 6 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark warning warning-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Pending
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        eius
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Colleague 2 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark error error-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Rejected
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        voluptas
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Demo Admin
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark warning warning-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Pending
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        est
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Level 1 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark secondary secondary-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Expiring
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        quidem
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Level 5 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark success success-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Approved
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        beatae
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Colleague 8 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark secondary secondary-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Expiring
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        vel
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Level 2 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark error error-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Rejected
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        est
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Colleague 5 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark secondary secondary-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Expired
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        sunt
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Colleague 8 User
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+            <tr>
+              <td
+                class="py-3"
+              >
+                <div
+                  class="v-menu"
+                >
+                  <button
+                    class="v-btn theme--dark error error-text--text"
+                    type="button"
+                  >
+                    <div
+                      class="v-btn__content"
+                    >
+                      
+  Rejected
+ 
+                      <i
+                        aria-hidden="true"
+                        class="v-icon v-icon--right material-icons theme--dark"
+                      >
+                        arrow_drop_down
+                      </i>
+                    </div>
+                  </button>
+                  <div
+                    class="v-menu__content theme--light "
+                    style="max-height: auto; min-width: 0px; max-width: auto; top: 12px; left: 0px; transform-origin: top left; z-index: 0; display: none;"
+                  >
+                     
+                    <div
+                      class="v-list theme--light"
+                      role="list"
+                    >
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Pending
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Approved
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Rejected
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expiring
+                          </div>
+                        </a>
+                      </div>
+                      <div
+                        role="listitem"
+                      >
+                        <a
+                          class="v-list__tile v-list__tile--link theme--light"
+                        >
+                          <div
+                            class="v-list__tile__title"
+                          >
+                            Expired
+                          </div>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+               
+              <td
+                class="py-3"
+              >
+                <div
+                  class="primary--text font-weight-bold title"
+                >
+                  
+        est
+      
+                </div>
+                 
+                <div
+                  class="gray--text"
+                >
+                  
+        Demo Admin
+      
+                </div>
+              </td>
+               
+              <td
+                class="text-xs-left py-3"
+              >
+                
+      Sep 30, 2019 • 3:51 AM
+    
+              </td>
+               
+              <td
+                class="text-xs-right py-3"
+              >
+                <button
+                  class="primary v-btn theme--light"
+                  type="button"
+                >
+                  <div
+                    class="v-btn__content"
+                  >
+                    
+        View Details
+      
+                  </div>
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Document list component document list is empty 1`] = `
+<div
+  class="white"
+>
+  <div
+    class="right py-3 px-4"
+  >
+    <button
+      class="v-btn theme--light primary"
+      type="button"
+    >
+      <div
+        class="v-btn__content"
+      >
+        <i
+          aria-hidden="true"
+          class="v-icon material-icons theme--light"
+        >
+          add_circle
+        </i>
+         
+        <span>
+          
+        Add New Document
+      
+        </span>
+      </div>
+    </button>
+  </div>
+   
+  <div>
+    <div>
+      <div
+        class="v-table__overflow"
+      >
+        <table
+          class="v-datatable v-table theme--light"
+        >
+          <thead>
+            <tr>
+              <th
+                aria-label="STATUS: Not sorted. Activate to sort ascending."
+                aria-sort="none"
+                class="column sortable text-xs-left"
+                role="columnheader"
+                scope="col"
+                tabindex="0"
+              >
+                
+    STATUS
+  
+                <i
+                  aria-hidden="true"
+                  class="v-icon material-icons theme--light"
+                  style="font-size: 16px;"
+                >
+                  arrow_upward
+                </i>
+              </th>
+              <th
+                aria-label="NAME: Not sorted."
+                aria-sort="none"
+                class="column text-xs-left"
+                role="columnheader"
+                scope="col"
+              >
+                
+    NAME
+  
+              </th>
+              <th
+                aria-label="LAST UPDATED: Not sorted. Activate to sort ascending."
+                aria-sort="none"
+                class="column sortable text-xs-left"
+                role="columnheader"
+                scope="col"
+                tabindex="0"
+              >
+                
+    LAST UPDATED
+  
+                <i
+                  aria-hidden="true"
+                  class="v-icon material-icons theme--light"
+                  style="font-size: 16px;"
+                >
+                  arrow_upward
+                </i>
+              </th>
+              <th
+                aria-label="MANAGE: Not sorted."
+                aria-sort="none"
+                class="column text-xs-left"
+                role="columnheader"
+                scope="col"
+              >
+                
+    MANAGE
+  
+              </th>
+            </tr>
+            <tr
+              class="v-datatable__progress"
+            >
+              <th
+                class="column"
+                colspan="4"
+              />
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td
+                class=""
+                colspan="4"
+              >
+                <div
+                  class="v-alert error"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon material-icons theme--light v-alert__icon"
+                  >
+                    warning
+                  </i>
+                  <div>
+                    
+      Sorry, nothing to display here :(
+    
+                  </div>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
